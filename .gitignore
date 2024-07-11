@@ -20,3 +20,14 @@
 # Go workspace file
 go.work
 go.work.sum
+
+#####################################################
+# custom
+/bin
+cover.out
+coverage.txt
+
+node_modules
+package-lock.json
+.env
+vendor
